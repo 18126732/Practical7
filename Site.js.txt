@@ -1,4 +1,5 @@
 
+
 <script>
 function Alert() {
 alert("I am excited for INF354 because I will be learning more about coding and implementing that knowledge into projects 
@@ -10,4 +11,7 @@ function details() {
 alert("I am excited for INF 354 because we'll be learning new things :)");
 }
 <script>
+
+
+
 
