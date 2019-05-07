@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <body>
@@ -9,3 +10,10 @@ alert("I am excited for INF 354 because we'll be learning new things :)");
 </script>
 </body>
 </html>
+
+<script>
+function details() {
+alert("I am excited for INF 354 because we'll be learning new things :)");
+}
+<script>
+
