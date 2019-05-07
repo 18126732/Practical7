@@ -1,0 +1,6 @@
+
+<script>
+function Alert() {
+alert("I am excited for INF354 because I will be learning more about coding and implementing that knowledge into projects 
+and probably develop something of my own");
+}
