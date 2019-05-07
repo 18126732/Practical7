@@ -1,5 +1,1 @@
-<script>
-function details() {
-alert("I am excited for INF 354 because we'll be learning new things :)");
-}
-<script>
+
