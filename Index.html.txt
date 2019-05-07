@@ -1,1 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script src="Site.js.txt"></script>
+<h4>My Button</h4>
 <button onlick="MyFunction()">u18097597. Vuyolwethu Mafanga</button>
+</body>
+</html>
