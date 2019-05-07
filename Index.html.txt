@@ -1,1 +1,17 @@
+
 <button on click "Details">Tshegofatso Setsile u17214531 </button>
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<script src="Site.js.txt"></script>
+  <link rel="stylesheet" type="text/css" href="Site.cs.txt">
+<h4>My Button</h4>
+<button onlick="MyFunction()">u18097597. Vuyolwethu Mafanga</button>
+</body>
+</html>
+
+
+
+
