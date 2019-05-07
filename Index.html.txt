@@ -1,2 +1,2 @@
-<button> Tshegofatso Setsile </button>
-<button> u17214531</button>
+<button onclick "Name and number"> Tshegofatso Setsile u17214531</button>
+
