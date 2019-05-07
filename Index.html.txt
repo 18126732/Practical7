@@ -1,1 +1,8 @@
-<button type="button">u18267174 Rutendo Joyce Musvosve</button>
+<!DOCTYPE html>
+<html>
+<body>
+
+<button type="button" onclick="alert()">u18267174 Rutendo Joyce Musvosve</button>
+
+</body>
+</html>
