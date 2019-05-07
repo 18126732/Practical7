@@ -1,11 +1,31 @@
 
 
 
+
 <script>
 function Alert() {
 alert("I am excited for INF354 because I will be learning more about coding and implementing that knowledge into projects 
 and probably develop something of my own");
 }
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<script>
+function excitement() {
+alert("I am excited for INF 354 because we'll be learning new things :)");
+}
+</script>
+</body>
+</html>
+
+<script>
+function details() {
+alert("I am excited for INF 354 because we'll be learning new things :)");
+}
+<script>
+
 
 <script>
 function details() {
