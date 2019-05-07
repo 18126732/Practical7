@@ -1,0 +1,6 @@
+<script>
+function MyFunction()
+{
+  alert("I'm ecxited for INF 324 becuase I get to have the same lectures");
+}
+</script>
