@@ -1,10 +1,31 @@
 
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<script>
+function excitement() {
+alert("I am excited for INF 354 because we'll be learning new things :)");
+}
+</script>
+</body>
+</html>
+
+<script>
+function details() {
+alert("I am excited for INF 354 because we'll be learning new things :)");
+}
+<script>
+
 <script>
 function MyFunction()
 {
   alert("I'm ecxited for INF 324 because it means I'm crying again next year :) ");
 }
 </script>
+
 
 
 
