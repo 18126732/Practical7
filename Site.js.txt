@@ -1,6 +1,6 @@
 <script>
 function MyFunction()
 {
-  alert("I'm ecxited for INF 324 becuase I get to have the same lectures");
+  alert("I'm ecxited for INF 324 because it means I'm crying again next year :) ");
 }
 </script>
