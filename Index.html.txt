@@ -3,9 +3,18 @@
 <html>
 <body>
 
+
 <button type="button" onclick="alert()">u18267174 Rutendo Joyce Musvosve</button>
+
+
+<script src="Site.js.txt"></script>
+  <link rel="stylesheet" type="text/css" href="Site.cs.txt">
+<h4>My Button</h4>
+<button onlick="MyFunction()">u18097597. Vuyolwethu Mafanga</button>
 
 </body>
 </html>
+
+
 
 
